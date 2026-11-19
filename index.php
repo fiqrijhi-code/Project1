@@ -10,9 +10,23 @@
 
 <body>
 
-     <div class="kotak"> 
+    <div class="hero">
+        <div class="content">
+            
+            <h1>Website Pendaftaran SMKN-1 Maros</h1>
 
-     </div>
+            <p>
+                Selamat Datang di Website Pendaftran SMKN-1 Maros.
+            </p>
+
+            <a href="#">Daftar Sekarang</a>
+        </div>
+
+        <div class="foto">
+            <img src="logosmk.png" alt="logo sekolah">
+        </div>
+
+    </div>
 
 </body>
 
